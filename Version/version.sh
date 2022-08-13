@@ -1,5 +1,5 @@
 #!/bin/bash
-export VERSIONABLE_NAME="openddl-parser"
+export VERSIONABLE_NAME="openddlparser"
 export VERSIONABLE_VERSION_PRIMARY="0"
 export VERSIONABLE_VERSION_SECONDARY="4"
 export VERSIONABLE_VERSION_PATCH="0"
