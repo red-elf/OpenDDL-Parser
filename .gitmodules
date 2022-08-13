@@ -1,3 +1,9 @@
 [submodule "Library"]
 	path = Library
 	url = https://github.com/kimkulling/openddl-parser
+[submodule "Installable"]
+	path = Installable
+	url = git@github.com:red-elf/Installable.git
+[submodule "Versionable"]
+	path = Versionable
+	url = git@github.com:red-elf/Versionable.git
