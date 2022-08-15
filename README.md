@@ -1,3 +1,3 @@
-# DDL Parser
+# OpenDDL Parser
 
-The DDL parser for the C++ projects.
+The OpenDDL parser for the C++ projects.
